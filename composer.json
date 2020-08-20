@@ -1,0 +1,21 @@
+{
+    "name": "lishenyang/php-coupons",
+    "description": "集成各大平台的优惠券 php-版本 淘宝 京东 拼多多",
+    "type": "library",
+    "require": {
+
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "李沈阳",
+            "email": "lsy_php@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Coupons\\": "src/"
+        }
+    }
+}
